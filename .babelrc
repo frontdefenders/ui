@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "@babel/typescript",
+    [
+      "react-app",
+      {
+        "absoluteRuntime": false
+      }
+    ]
+  ],
+  "plugins": ["@babel/proposal-object-rest-spread"],
+  "ignore": ["**/*.test.js"]
+}

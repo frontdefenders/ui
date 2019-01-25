@@ -1,7 +1,7 @@
 {
   "name": "@frontdefenders/ui",
   "description": "React UI components with typescript",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "license": "MIT",

@@ -1,0 +1,14 @@
+.git
+
+src/
+public/
+
+#misc
+node_modules/
+.babelrc
+.gitignore
+.editorconfig
+tslint.json
+npm-debug.log
+yarn-error.log
+yarn.lock.log
